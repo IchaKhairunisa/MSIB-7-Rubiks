@@ -122,13 +122,13 @@ function LandingLogin() {
             className="mySwiper"
           >
             <SwiperSlide>
-              <img style={{ width: '100%', height: 'auto', objectFit: 'cover' }} src="/assets/images/lp-exsplore1.png" alt="Explore 1" />
+              <img style={{ width: '100%', height: 'auto', objectFit: 'cover' }} src="/assets/images/lp-exsplore3.png" alt="Explore 1" />
             </SwiperSlide>
             <SwiperSlide>
               <img style={{ width: '100%', height: 'auto', objectFit: 'cover' }} src="/assets/images/lp-exsplore2.png" alt="Explore 2" />
             </SwiperSlide>
             <SwiperSlide>
-              <img style={{ width: '100%', height: 'auto', objectFit: 'cover' }} src="/assets/images/lp-exsplore3.png" alt="Explore 3" />
+              <img style={{ width: '100%', height: 'auto', objectFit: 'cover' }} src="/assets/images/lp-exsplore1.png" alt="Explore 3" />
             </SwiperSlide>
             <SwiperSlide>
               <img style={{ width: '100%', height: 'auto', objectFit: 'cover' }} src="/assets/images/lp-exsplore4.png" alt="Explore 4" />
